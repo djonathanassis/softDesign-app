@@ -46,7 +46,7 @@ O projeto se utiliza de contêineres Docker, através do pacote *Laravel Sail* p
 
 - Faça um clone do projeto para sua máquina local
 ```shell
-git clone https://github.com/djonathanassis/azapfy-app.git
+git clone https://github.com/djonathanassis/softDesign-app.git
 ```
 
 O projeto pode ser instalado e executado usando Docker e docker-compose.
