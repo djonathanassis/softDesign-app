@@ -36,7 +36,6 @@ services:
           COMPOSER_VERSION: ${COMPOSER_VERSION:-latest}
       container_name: php82-container
       restart: unless-stopped
-      entrypoint: sh ./.docker/php/entrypoint.sh
       ports:
         - "9000:9000"
       volumes:
